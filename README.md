@@ -1,5 +1,5 @@
 ## :package: 專案 
-[Vue3 後台元件庫](https://lian0103.github.io/vue-ui/#/gt/a-i/avatar
+[Vue3 後台元件庫](https://lian0103.github.io/vue-ui/#/gt/a-i/avatar)
 
 ## :construction_worker: 實作
 [開發筆記_v3](https://jason-lian.page/)     
