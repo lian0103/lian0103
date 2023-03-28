@@ -1,11 +1,7 @@
-<p>
-<img style="width:685px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lian0103&theme=nord_dark" />
-</p>
-
 <p>    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=nord_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=github" />
     
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lian0103&theme=nord_dark&utcOffset=8" />    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lian0103&theme=github&utcOffset=8" />    
 </p>
 
 ## :package: 專案 
