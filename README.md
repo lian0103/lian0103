@@ -1,9 +1,3 @@
-<p>    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=github" />
-    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lian0103&theme=github&utcOffset=8" />    
-</p>
-
 ## :package: 專案 
 [Vue3後台元件庫](https://lian0103.github.io/vue-ui/#/gt/a-i/avatar)
 
@@ -55,4 +49,11 @@ Vue3、Quasar實作。
 <img alt="webpack" style="margin-right:5px" src="https://img.shields.io/badge/Webpack-juniur-green?style=flat-square&logo=webpack" />
 <img alt="vite" style="margin-right:5px" src="https://img.shields.io/badge/Vite-medium-orange?style=flat-square&logo=vite" />
 <img alt="firebase" style="margin-right:5px" src="https://img.shields.io/badge/Firebase-medium-orange?style=flat-square&logo=firebase" />
+</p>
+
+## Stat
+<p>    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=github" />
+    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lian0103&theme=github&utcOffset=8" />    
 </p>
