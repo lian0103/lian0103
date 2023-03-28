@@ -51,7 +51,7 @@ Vue3、Quasar實作。
 <img alt="firebase" style="margin-right:5px" src="https://img.shields.io/badge/Firebase-medium-orange?style=flat-square&logo=firebase" />
 </p>
 
-## Stat
+## :rainbow: 統計
 <p>    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=github" />
     
