@@ -1,22 +1,3 @@
-## :package: 專案 
-[Vue3 後台元件庫](https://lian0103.github.io/vue-ui/#/gt/a-i/avatar)
-
-## :construction_worker: 實作
-[開發筆記_v3](https://jason-lian.page/)     
-使用 Vue Press 開源庫，撰寫技術心得。
-
-[開發筆記_v2](https://nuxt3-notes.vercel.app/)  
-使用 Nuxt3 開源庫，撰寫技術心得。
-
-[開發筆記_v1](https://hexo-blog-2de2a.web.app/)  
-使用 Hexo 開源庫，撰寫技術心得。
-
-[線上預約](https://book-service.firebaseapp.com/#/)  
-後端使用 Firebase 服務，實現資料串接、權限管控，並透過 Firebase cli 佈署。
-
-[花費紀錄](https://account-app-f70c0.web.app/#/)  
-Vue3、Quasar實作。
-
 ## :santa: 技能範圍
 ### 前端
 <p>
