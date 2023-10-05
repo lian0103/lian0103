@@ -1,5 +1,5 @@
-## 🥹 技能範圍
-### 前端
+🥹 技能範圍
+- 前端
 <p>
 <img alt="html5" style="margin-right:5px" src="https://img.shields.io/badge/HTML5-medium-orange?style=flat-square&logo=html5" /> 
 <img alt="css3" style="margin-right:5px" src="https://img.shields.io/badge/CSS3-medium-orange?style=flat-square&logo=css3" />
@@ -13,7 +13,7 @@
 </p>
 
 
-### 後端
+- 後端
 <p>
 <img alt="nodejs" style="margin-right:5px" src="https://img.shields.io/badge/NodeJS-medium-orange?style=flat-square&logo=nodedotjs" />  
 <img alt="express" style="margin-right:5px" src="https://img.shields.io/badge/Express-medium-orange?style=flat-square&logo=express" />
@@ -22,7 +22,7 @@
 </p>
 
 
-### 開發工具
+- 開發工具
 <p>
 <img alt="docker" style="margin-right:5px" src="https://img.shields.io/badge/Docker-juniur-green?style=flat-square&logo=docker" />
 <img alt="postman" style="margin-right:5px" src="https://img.shields.io/badge/Postman-juniur-green?style=flat-square&logo=postman" />
@@ -32,7 +32,7 @@
 <img alt="firebase" style="margin-right:5px" src="https://img.shields.io/badge/Firebase-medium-orange?style=flat-square&logo=firebase" />
 </p>
 
-## :rainbow: 統計
+:rainbow: 統計
 <p>    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lian0103&theme=github" />
     
