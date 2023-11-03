@@ -5,7 +5,7 @@
 星宇航空 前端工程師
 
 技能範圍🥹       
-前端
+web前後端和開發工具
 <p>
 <img alt="html5" style="margin-right:5px" src="https://img.shields.io/badge/HTML5-medium-orange?style=flat-square&logo=html5" /> 
 <img alt="css3" style="margin-right:5px" src="https://img.shields.io/badge/CSS3-medium-orange?style=flat-square&logo=css3" />
@@ -17,16 +17,12 @@
 <img alt="react" style="margin-right:5px" src="https://img.shields.io/badge/React-juniur-green?style=flat-square&logo=react" /> 
 <img alt="sass" style="margin-right:5px" src="https://img.shields.io/badge/Sass-juniur-green?style=flat-square&logo=sass" /> 
 </p>
-
-後端       
 <p>
 <img alt="nodejs" style="margin-right:5px" src="https://img.shields.io/badge/NodeJS-medium-orange?style=flat-square&logo=nodedotjs" />  
 <img alt="express" style="margin-right:5px" src="https://img.shields.io/badge/Express-medium-orange?style=flat-square&logo=express" />
 <img alt="mongodb" style="margin-right:5px" src="https://img.shields.io/badge/MongoDB-juniur-green?style=flat-square&logo=mongodb" />
 <img alt="mysql" style="margin-right:5px" src="https://img.shields.io/badge/MySQL-juniur-green?style=flat-square&logo=mysql" />
 </p>
-
-開發工具      
 <p>
 <img alt="docker" style="margin-right:5px" src="https://img.shields.io/badge/Docker-juniur-green?style=flat-square&logo=docker" />
 <img alt="postman" style="margin-right:5px" src="https://img.shields.io/badge/Postman-juniur-green?style=flat-square&logo=postman" />
