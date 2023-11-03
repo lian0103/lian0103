@@ -4,8 +4,7 @@
 現職🧘      
 星宇航空 前端工程師
 
-技能範圍🥹       
-web前後端和開發工具
+前後端技能範圍🥹       
 <p>
 <img alt="html5" style="margin-right:5px" src="https://img.shields.io/badge/HTML5-medium-orange?style=flat-square&logo=html5" /> 
 <img alt="css3" style="margin-right:5px" src="https://img.shields.io/badge/CSS3-medium-orange?style=flat-square&logo=css3" />
